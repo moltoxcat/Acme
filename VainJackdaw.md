@@ -1,6 +1,10 @@
 
 
+<<<<<<< HEAD
 # The Vain JackDaw & His Burrowed Feathers
+=======
+# The Vain Jack Daw & His Borrowed Feathers
+>>>>>>> 384215ddfb338e00795106d6eb0e8f575b5a9fc5
 
 ![vain-jackdaw](images/vain-jackdaw.png)
 
